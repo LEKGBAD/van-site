@@ -22,7 +22,7 @@ export default function Input(props){
     
     return <div>
         <Button large>Click Me</Button>
-        <Button as="a" href="google.com" >Login</Button>
+        <Button as="a" href="http://google.com" >Login</Button>
         <h2 css={`color:red;font-weight:bold`}>Welcome here</h2>
         <Pad ClassName="ewe" onClick={handleClick} as="button">Thats me</Pad>
     </div>
