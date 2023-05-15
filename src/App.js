@@ -1,10 +1,10 @@
 import './App.css';
-import Input from "./components/input";
+// import Input from "./components/input";
 import Dashboard from  "./components/dashboard"
 import About from "./components/about"
 import Navigation from "./components/navigation"
 
-import {BrowserRouter,Routes,Route,Link,useLocation} from "react-router-dom"
+import {BrowserRouter,Routes,Route} from "react-router-dom"
 
 function App() {
   
